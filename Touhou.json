@@ -2,17 +2,64 @@
   "name": " Touhou Official games | Form Moriyashrine / Arabic Sub",
   "downloads": [
     {
-      "title": "Touhou Shinreibyou ~ Ten Desires.",
-      "uris": ["https://eu-cdn.moriyashrine.org/monthly_2024_10/EnglishPatchedTouhou13-TenDesires_zip.564200ae6a8a74e2be38e78f06726c7f?X-Amz-Expires=1200&response-content-disposition=filename=%22%255BEnglish%255D%2520%255BPatched%255D%2520Touhou%252013%2520-%2520Ten%2520Desires.zip%22&response-content-type=application/x-unknown;charset=UTF-8"],
-      "uploadDate": "2018-04-19T07:52:00.000Z",
+      "title": "Touhou Kaeizuka ～ Phantasmagoria of Flower View.",
+      "uris": ["magnet:?xt=urn:btih:e38b471c8fe8547601bbc4543cb714901d4645b2&dn=Touhou%209%20-%20Phantasmagoria%20of%20Flower%20View.zip&tr=udp%3A%2F%2Ftracker.nitorrent.nl%3A6969"],
+      "uploadDate": "2005-08-14T07:52:00.000Z",
       "fileSize": "570 MB"
     },
     {
-      "title": "Black Market of Bulletphilia ~ 100th Black Market.",
-      "uris": ["https://eu-cdn.moriyashrine.org/monthly_2024_10/EnglishPatchedTouhou18.5-100thBlackMarket_zip.b494317f1649ce0aeaf6dfdb41837797?X-Amz-Expires=1200&response-content-disposition=filename=%22%255BEnglish%255D%2520%255BPatched%255D%2520Touhou%252018.5%2520-%2520100th%2520Black%2520Market.zip%22&response-content-type=application/x-unknown;charset=UTF-8"],
-      "uploadDate": "2018-04-19T07:52:00.000Z",
-      "fileSize": "302 MB"
+     "title": "Touhou Bunkachou ～ Shoot the Bullet.",
+     "uris": ["magnet:?xt=urn:btih:ffcd1da8d93233fbb3cc9f7845e62e3cdf67281f&dn=Touhou%209.5%20-%20Shoot%20the%20Bullet.zip&tr=udp%3A%2F%2Ftracker.nitorrent.nl%3A6969"],
+     "uploadDate": "2005-12-30T07:53:00.000Z",
+     "fileSize": "150 MB"
+    },
+    {
+      "title": "Touhou Fuujinroku - Mountain of Faith.",
+      "uris": ["magnet:?xt=urn:btih:58e6547095ad7d94ba2599530cc5ea56405235bc&dn=touhou-10-mountain-of-faith&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601405.us.archive.org/1/items/&ws=https://archive.org/download/"],
+      "uploadDate": "2007-08-27T07:58:00.000Z",
+      "fileSize": "446 MB"
+    },
+    {
+      "title": "Touhou Chireiden ~ Subterranean Animism.",
+      "uris": ["magnet:?xt=urn:btih:cbd587deb07b6258befdf81eb3d74d4e76fc4a78&dn=touhou-11-subterranean-animism&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=/6/items/&ws=http://ia601400.us.archive.org/6/items/&ws=https://archive.org/download/&ws=https://ia601500.us.archive.org"],
+      "uploadDate": "2008-08-26T07:58:00.000Z",
+      "fileSize": "446 MB"
+    },
+    {
+      "title": "Touhou Seirensen ~ Undefined Fantastic Object.",
+      "uris": ["magnet:?xt=urn:btih:42c49691d4d9d88fe75609774bb37b01f9efeddb&dn=Touhou%2012%20-%20Undefined%20Fantastic%20Object.zip&tr=udp%3A%2F%2Ftracker.nitorrent.nl%3A6969"],
+      "uploadDate": "2009-08-15T07:58:00.000Z",
+      "fileSize": "427 MB"
+    },
+    {
+      "title": "Double Spoiler",
+      "uris": ["magnet:?xt=urn:btih:bd3b6ebcfab655cbdb74079f7170c8242f8b1891&dn=touhou-12.5-double-spoiler&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601403.us.archive.org/33/items/&ws=https://archive.org/download/"],
+      "uploadDate": "2010-03-14T07:58:00.000Z",
+      "fileSize": "162 MB"
+    },
+    {
+      "title": "Yousei Daisensou ~ Touhou Sangetsusei",
+      "uris": ["magnet:?xt=urn:btih:ce00aae2fba019be42b05365750a15b21b26d305&dn=touhou-12.8-fairy-wars&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601505.us.archive.org/20/items/&ws=https://archive.org/download/"],
+      "uploadDate": "2010-08-14T07:58:00.000Z",
+      "fileSize": "210 MB"
+    },
+    {
+      "title": "Touhou Shinreibyou ~ Ten Desires.",
+      "uris": ["https://gofile.io/d/bE6Ygo"],
+      "uploadDate": "2011-08-13T07:58:00.000Z",
+      "fileSize": "550 MB"
+    },
+    {
+      "title": "Touhou Kishinjou ~ Double Dealing Character.",
+      "uris": ["magnet:?xt=urn:btih:df9ad08d838831e4ca14b2e5189f7982f76c0430&dn=touhou-14-double-dealing-character&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601507.us.archive.org/4/items/&ws=https://archive.org/download/"],
+      "uploadDate": "2013-05-26T07:58:00.000Z",
+      "fileSize": "580 MB"
+    },
+    {
+      "title": "Danmaku Amanojaku ~ Impossible Spell Card",
+      "uris": ["magnet:?xt=urn:btih:3640fdef04f5adc3b9a650b8d4bc0ba01660d7d7&dn=Touhou%2014.3%20-%20Impossible%20Spell%20Card&tr=udp%3A%2F%2Ftracker.nitorrent.nl%3A6969"],
+      "uploadDate": "2014-05-11T07:58:00.000Z",
+      "fileSize": "270 MB"
     }
   ]
 }
-      
