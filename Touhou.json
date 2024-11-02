@@ -45,7 +45,7 @@
     },
     {
       "title": "Touhou Shinreibyou ~ Ten Desires.",
-      "uris": ["https://gofile.io/d/bE6Ygo"],
+      "uris": ["magnet:?xt=urn:btih:3af94e1ffc5131f57abc35c15d7436eb0802e05b&dn=touhou-13-ten-desires&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=/0/items/&ws=http://ia601406.us.archive.org/0/items/&ws=https://archive.org/download/  "],
       "uploadDate": "2011-08-13T07:58:00.000Z",
       "fileSize": "550 MB"
     },
@@ -54,6 +54,12 @@
       "uris": ["magnet:?xt=urn:btih:df9ad08d838831e4ca14b2e5189f7982f76c0430&dn=touhou-14-double-dealing-character&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601507.us.archive.org/4/items/&ws=https://archive.org/download/"],
       "uploadDate": "2013-05-26T07:58:00.000Z",
       "fileSize": "580 MB"
+    },
+    {
+      "title": "Danmaku Amanojaku ~ Impossible Spell Card",
+      "uris": ["magnet:?xt=urn:btih:3640fdef04f5adc3b9a650b8d4bc0ba01660d7d7&dn=Touhou%2014.3%20-%20Impossible%20Spell%20Card&tr=udp%3A%2F%2Ftracker.nitorrent.nl%3A6969"],
+      "uploadDate": "2014-05-11T07:58:00.000Z",
+      "fileSize": "270 MB"
     },
     {
       "title": "Danmaku Amanojaku ~ Impossible Spell Card",
